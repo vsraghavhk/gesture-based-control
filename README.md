@@ -1,7 +1,7 @@
 # Controlling UAV camera using gestures with Leap Motion Controller
 
 This project was an extension to CSCE 635 AI Robotics with Dr. Robin Murphy at Texas A&M. 
-Project developed by [Raghav Hari Krishna](https://github.com/vsraghavhk) and [Leslie Kim](), developed during Fall of 2020. 
+Project developed by [Raghav Hari Krishna](https://github.com/vsraghavhk) and [Leslie Kim](https://github.com/leslieyskim), developed during Fall of 2020. 
 
 The final report for this project which explains the prohject in detail, is available [here]. 
 
@@ -55,3 +55,5 @@ The LMC py3 support folder inside the leap folder has the Leap SDK files which s
 
 
 Another option to try is [repo](https://github.com/brunodigiorgi/leapMotionController) by [brunodigiorgi](https://github.com/brunodigiorgi). 
+
+A good resource to learn python for LMC is [Coding Basic's Youtube playlist](https://www.youtube.com/playlist?list=PLgTGpidiW0iTELuljcIdTkA5SjHa5tudP).
