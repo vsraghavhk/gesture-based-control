@@ -54,4 +54,4 @@ Before running this program, open the anafi-gesture.py in an editor and check th
 The LMC py3 support folder inside the leap folder has the Leap SDK files which should ideally work with python 3. It is from this [resource section of CSSE 120 class at Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/class/cs/csse120/Resources/LeapMotion/)
 
 
-Another option to try is [https://github.com/brunodigiorgi/leapMotionController]. 
+Another option to try is [repo](https://github.com/brunodigiorgi/leapMotionController) by [brunodigiorgi](https://github.com/brunodigiorgi). 
