@@ -11,7 +11,9 @@ This project requires the following softwares and SDKs for the corresponding har
 ### [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/): 
   - [Leap Motion SDK Version 3.2](https://developer.leapmotion.com/releases/leap-motion-orion-321)
   - [Python 2.7](https://www.python.org/download/releases/2.7/)
+  
   The documentation to use the Leap Motion SDK with Python 2.7 can be found [here](https://developer-archive.leapmotion.com/documentation/python/index.html#). 
+
 The Leap Motion SDK does not officially support Python 3 and above. But there are a few wrappers made by the community, but they do not tend to work. 
 Let me know if you come across a working one. 
   
