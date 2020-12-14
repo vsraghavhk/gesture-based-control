@@ -50,4 +50,8 @@ Before running this program, open the anafi-gesture.py in an editor and check th
 
 #### Both the read_gesture.py and Anafi-gesture.py must be run at the same time. 
 
+### Possible Python 3 implementations of Leap Motion SDK for Python 3 (For the sake of posterity)
+The LMC py3 support folder inside the leap folder has the Leap SDK files which should ideally work with python 3. It is from this [resource section of CSSE 120 class at Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/class/cs/csse120/Resources/LeapMotion/)
 
+
+Another option to try is [https://github.com/brunodigiorgi/leapMotionController]. 
