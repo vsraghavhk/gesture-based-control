@@ -23,7 +23,30 @@ Let me know if you come across a working one.
   
 
 ## Installation
-Install the the Leap Motion SDK V3.2 listed above along with the two python versions (2.7 and 3.9). 
 
-The PyParrot API is already included in this repo. 
+Install the two python versions (2.7 and 3.9). 
+
+It is suggested to create two [virtual environments](https://docs.python.org/3/tutorial/venv.html) for the 2 python versions. 
+
+The code in the leap folder is to obtain the gestures using the leap motion controller. 
+
+Install leap-requirements.txt in the leap folder within the Python 2.7 environment.
+
+The leap folder has all the code and the relevant SDK files needed to run the code which handles the gestures. 
+
+The read_gesture.py in the leap folder is the program to run within the python 2.7 environment.
+
+
+
+The code in the pyparrot folder is to send commands to the drone based on the gesture inputs from LMC. 
+
+Install drone-requirements.txt in the pyparrot folder with Python 3.9.
+
+The PyParrot folder has all the SDK files form the PyParrot API necessary to run the code for the drone control. 
+
+The Anafi-gesture.py in the pyparrot folder is the program to run within the python 3.9 environement. 
+
+
+Both the read_gesture.py and Anafi-gesture.py must be run at the same time. 
+
 
