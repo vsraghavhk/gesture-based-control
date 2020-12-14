@@ -23,3 +23,7 @@ Let me know if you come across a working one.
   
 
 ## Installation
+Install the the Leap Motion SDK V3.2 listed above along with the two python versions (2.7 and 3.9). 
+
+The PyParrot API is already included in this repo. 
+
