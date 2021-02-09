@@ -3,7 +3,7 @@
 This project was an extension to CSCE 635 AI Robotics with Dr. Robin Murphy at Texas A&M. 
 Project developed by [Raghav Hari Krishna](https://github.com/vsraghavhk) and [Leslie Kim](https://github.com/leslieyskim), developed during Fall of 2020. 
 
-The final report for this project which explains the prohject in detail, is available [here](https://github.com/vsraghavhk/gesture-based-control/Project Report.pdf). 
+The final report for this project which explains the prohject in detail, is available ![here](https://github.com/vsraghavhk/gesture-based-control/Project Report.pdf). 
 
 ## Requirements
 This project requires the following softwares and SDKs for the corresponding hardware. 
